@@ -1,4 +1,4 @@
-const BASE_URL = 'http://qa-api-mock-3.eu-central-1.elasticbeanstalk.com';
+const BASE_URL = 'API_URL';
 
 const handleResponse = async (response: Response) => {
   if (!response.ok) {
