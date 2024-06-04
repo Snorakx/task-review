@@ -1,32 +1,7 @@
 # React + TypeScript + Vite
 
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── TruckForm.tsx
-│   │   ├── TruckForm.scss
-│   │   ├── TruckList.tsx
-│   │   ├── TruckList.scss
-│   ├── pages/
-│   │   ├── TruckManagementPage.tsx
-│   │   ├── TruckManagementPage.scss
-│   ├── repos/
-│   │   └── truckRepository.ts
-│   ├── services/
-│   │   └── truckService.ts
-│   ├── states/
-│   │   └── truckState.ts
-│   ├── core/
-│   │   └── ApiService.ts
-│   ├── App.tsx
-│   ├── App.scss
-│   ├── main.tsx
-│   └── index.scss
-├── .gitignore
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
+![image](https://github.com/Snorakx/task-review/assets/43957456/f9fe1627-aec7-49c8-8c3a-bf7aaf8113e0)
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
