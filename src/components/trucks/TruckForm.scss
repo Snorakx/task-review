@@ -1,0 +1,26 @@
+.form-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.button:disabled {
+  background: #ccc;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
